@@ -509,6 +509,8 @@
 	</outline>
 	<lib>
 		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-05 00:40:27 +0000</string>
 			<key>public.markColor</key>
 			<string>0.25,0.25,0.25,1</string>
 		</dict>
